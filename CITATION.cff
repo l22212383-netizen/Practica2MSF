@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: lenguaje m;python
+type: software
+authors:
+  - given-names: Iván De Jesús
+    family-names: Fonseca Díaz
+    name-particle: Iván
+    email: l22212383@tectijuana.edu.mx
+    affiliation: TECNM/ITT
+url: 'https://github.com/l22212383-netizen/Practica2MSF'
+keywords:
+  - Circuito RLC
+  - Controlador PI
+  - Modelado matemático
+  - Sistema cardiovascular
+  - Simulaciones numéricas
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-10-17'
