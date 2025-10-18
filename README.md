@@ -2,7 +2,7 @@
 
 # Práctica: Sistema cardiovascular
 
-## Información de la estudiante
+## Información del estudiante
 Iván De Jesús Fonseca Díaz \[22212383]; l22212383@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
