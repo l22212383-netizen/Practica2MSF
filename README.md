@@ -1,6 +1,6 @@
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=l22212383-netizen/Practica2MSF)
 
-# Práctica: Sistema cardiovascular
+# Práctica 2: Sistema cardiovascular
 
 ## Información del estudiante
 Iván De Jesús Fonseca Díaz \[22212383]; l22212383@tectijuana.edu.mx
